@@ -1,6 +1,6 @@
 # Console Link
 
-<img src="./logo.png" style="width: 64px;" />
+<img src="./Logo.png" style="width: 64px;" />
 
 Console Link is a macOS utility that allows real-time preview of audio and video.  
 Compared to OBS, Console Link offers superior performance and extremely low power consumption.  
