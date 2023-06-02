@@ -11,7 +11,7 @@ Primarily used for video games, can support up to 1440P 60FPS.
 Support High Quality.
 
 ### App Store Version
-[App Store Link]()  
+[App Store Link](https://apps.apple.com/us/app/console-link/id6448843682)  
 Support High Quality, Ultra Quality, Best Quality.
 
 Copyright © 2023 CHUNQIAN SHEN. All rights reserved.
